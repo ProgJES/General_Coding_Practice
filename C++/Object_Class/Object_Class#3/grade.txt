@@ -1,0 +1,5 @@
+Jack 98 100 78
+Anthony 34 76 55
+Chai 99 76 22
+Eunseok 90 99 88
+Min 98 18 99
